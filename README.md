@@ -16,7 +16,7 @@ During economic downturns and market corrections, companies across industries im
 
 ## Data Structure
 
-### Source Table: `layoffs_staging2`
+### Source Table: `cleaned_layoffs_data.csv`
 
 The analysis uses a cleaned and staged version of the layoffs dataset with the following key columns:
 
@@ -143,7 +143,7 @@ This analysis demonstrates:
 
 - `README.md` - This file with project overview
 - `layoffs_eda.sql` - Complete SQL queries with business-focused comments
-- `startup_data.csv` - Supplementary startup funding data (if relevant)
+- `cleaned_layoffs_data.csv` - Supplementary startup funding data (if relevant)
 
 ## Recommendations for Stakeholders
 
